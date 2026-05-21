@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI News Radar - 常见免费信息源</title>
+    <dateCreated>2026-05-18</dateCreated>
+  </head>
+  <body>
+    <!-- 官方 AI 实验室 -->
+    <outline text="官方 AI 实验室">
+      <outline text="OpenAI News" title="OpenAI 新闻" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news"/>
+      <outline text="Anthropic News" title="Anthropic 新闻" type="rss" xmlUrl="https://www.anthropic.com/news/rss.xml" htmlUrl="https://www.anthropic.com/news"/>
+      <outline text="Google DeepMind Blog" title="DeepMind 博客" type="rss" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/discover/blog/"/>
+      <outline text="Google AI Blog" title="Google AI 博客" type="rss" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/"/>
+      <outline text="Microsoft AI Blog" title="微软 AI 博客" type="rss" xmlUrl="https://blogs.microsoft.com/ai/feed/" htmlUrl="https://blogs.microsoft.com/ai/"/>
+      <outline text="Meta AI Blog" title="Meta AI 博客" type="rss" xmlUrl="https://ai.meta.com/blog/rss/" htmlUrl="https://ai.meta.com/blog/"/>
+      <outline text="Apple ML Research" title="Apple 机器学习" type="rss" xmlUrl="https://machinelearning.apple.com/feed.xml" htmlUrl="https://machinelearning.apple.com/"/>
+      <outline text="NVIDIA AI Blog" title="NVIDIA AI 博客" type="rss" xmlUrl="https://blogs.nvidia.com/ai-category/feed/" htmlUrl="https://blogs.nvidia.com/ai/"/>
+      <outline text="Amazon Science" title="Amazon Science" type="rss" xmlUrl="https://www.amazon.science/feed" htmlUrl="https://www.amazon.science/"/>
+      <outline text="IBM Research" title="IBM 研究院" type="rss" xmlUrl="https://research.ibm.com/blog/rss.xml" htmlUrl="https://research.ibm.com/blog"/>
+    </outline>
+
+    <!-- 开源模型与开发平台 -->
+    <outline text="开源模型与开发平台">
+      <outline text="Hugging Face Blog" title="Hugging Face 博客" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+      <outline text="LangChain Blog" title="LangChain 博客" type="rss" xmlUrl="https://blog.langchain.dev/feed/" htmlUrl="https://blog.langchain.dev/"/>
+      <outline text="LlamaIndex Blog" title="LlamaIndex 博客" type="rss" xmlUrl="https://blog.llamaindex.ai/feed" htmlUrl="https://blog.llamaindex.ai/"/>
+      <outline text="Replicate Blog" title="Replicate 博客" type="rss" xmlUrl="https://replicate.com/blog/rss.xml" htmlUrl="https://replicate.com/blog"/>
+      <outline text="Groq Blog" title="Groq 博客" type="rss" xmlUrl="https://groq.com/news/rss/" htmlUrl="https://groq.com/news/"/>
+      <outline text="Cohere Blog" title="Cohere 博客" type="rss" xmlUrl="https://cohere.com/blog/rss.xml" htmlUrl="https://cohere.com/blog"/>
+      <outline text="Mistral AI" title="Mistral AI" type="rss" xmlUrl="https://mistral.ai/news/rss.xml" htmlUrl="https://mistral.ai/news/"/>
+      <outline text="Stability AI Blog" title="Stability AI 博客" type="rss" xmlUrl="https://stability.ai/news/rss" htmlUrl="https://stability.ai/news/"/>
+      <outline text="Runway Blog" title="Runway 博客" type="rss" xmlUrl="https://research.runwayml.com/rss.xml" htmlUrl="https://research.runwayml.com/"/>
+    </outline>
+
+    <!-- AI 媒体与科技媒体 -->
+    <outline text="AI 媒体与科技媒体">
+      <outline text="Wired AI" title="Wired AI" type="rss" xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" htmlUrl="https://www.wired.com/tag/artificial-intelligence/"/>
+      <outline text="TechCrunch AI" title="TechCrunch AI" type="rss" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/category/artificial-intelligence/"/>
+      <outline text="The Verge AI" title="The Verge AI" type="rss" xmlUrl="https://www.theverge.com/ai-artificial-intelligence/rss/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence"/>
+      <outline text="MIT Technology Review" title="MIT 技术评论" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+      <outline text="Ars Technica AI" title="Ars Technica AI" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/ai/"/>
+      <outline text="VentureBeat AI" title="VentureBeat AI" type="rss" xmlUrl="https://venturebeat.com/ai/feed/" htmlUrl="https://venturebeat.com/ai/"/>
+      <outline text="Engadget AI" title="Engadget AI" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/"/>
+    </outline>
+
+    <!-- 中国 AI 媒体 -->
+    <outline text="中国 AI 媒体">
+      <outline text="机器之心" title="机器之心" type="rss" xmlUrl="https://jiqizhixin.com/rss" htmlUrl="https://jiqizhixin.com/"/>
+      <outline text="InfoQ 中国" title="InfoQ 中国" type="rss" xmlUrl="https://www.infoq.cn/feed" htmlUrl="https://www.infoq.cn/"/>
+      <outline text="量子位" title="量子位" type="rss" xmlUrl="https://www.qbitai.com/feed" htmlUrl="https://www.qbitai.com/"/>
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/"/>
+      <outline text="36kr AI" title="36kr AI" type="rss" xmlUrl="https://36kr.com/feed" htmlUrl="https://36kr.com/tag/2004"/>
+      <outline text="极客公园" title="极客公园" type="rss" xmlUrl="https://geekpark.net/rss" htmlUrl="https://geekpark.net/"/>
+      <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/"/>
+      <outline text="钛媒体" title="钛媒体" type="rss" xmlUrl="https://www.tmtpost.com/rss" htmlUrl="https://www.tmtpost.com/"/>
+    </outline>
+
+    <!-- 开发者与工具 -->
+    <outline text="开发者与工具">
+      <outline text="Hacker News" title="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline text="GitHub Trending" title="GitHub Trending" type="rss" xmlUrl="https://github.com/trending.atom" htmlUrl="https://github.com/trending"/>
+      <outline text="Dev.to AI" title="Dev.to AI" type="rss" xmlUrl="https://dev.to/feed/tags/ai" htmlUrl="https://dev.to/t/ai"/>
+      <outline text="Reddit r/MachineLearning" title="Reddit ML" type="rss" xmlUrl="https://www.reddit.com/r/MachineLearning.rss" htmlUrl="https://www.reddit.com/r/MachineLearning/"/>
+      <outline text="Stack Overflow AI" title="Stack Overflow AI" type="rss" xmlUrl="https://stackoverflow.com/feeds/tag/ai" htmlUrl="https://stackoverflow.com/questions/tagged/ai"/>
+      <outline text="Product Hunt AI" title="Product Hunt AI" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com/"/>
+    </outline>
+
+    <!-- AI 观点与博客 -->
+    <outline text="AI 观点与个人博客">
+      <outline text="Simon Willison" title="Simon Willison" type="rss" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+      <outline text="Jay Alammar" title="Jay Alammar" type="rss" xmlUrl="https://jalammar.com/feed/" htmlUrl="https://jalammar.github.io/"/>
+      <outline text="Sebastian Raschka" title="Sebastian Raschka" type="rss" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/"/>
+      <outline text="Andrej Karpathy" title="Andrej Karpathy" type="rss" xmlUrl="https://karpathy.ai/feed.xml" htmlUrl="https://karpathy.ai/"/>
+      <outline text="Jim Fan" title="Jim Fan" type="rss" xmlUrl="https://twitter.com/DrJimFan/rss" htmlUrl="https://twitter.com/DrJimFan"/>
+      <outline text="宝玉" title="宝玉" type="rss" xmlUrl="https://baoyu.io/feed.xml" htmlUrl="https://baoyu.io/"/>
+    </outline>
+
+    <!-- AI 工具与产品评测 -->
+    <outline text="AI 工具与产品评测">
+      <outline text="Future Tools" title="Future Tools" type="rss" xmlUrl="https://www.futuretools.io/feed" htmlUrl="https://www.futuretools.io/"/>
+      <outline text="There's An AI For That" title="AI 工具聚合" type="rss" xmlUrl="https://theresanaiforthat.com/rss/" htmlUrl="https://theresanaiforthat.com/"/>
+      <outline text="AlternativeTo AI" title="AI 替代工具" type="rss" xmlUrl="https://alternativeto.net/feed/ai" htmlUrl="https://alternativeto.net/category/ai/"/>
+      <outline text="Product Hunt AI Tools" title="Product Hunt AI" type="rss" xmlUrl="https://www.producthunt.com/feed/category/Artificial-Intelligence" htmlUrl="https://www.producthunt.com/"/>
+    </outline>
+
+  </body>
+</opml>

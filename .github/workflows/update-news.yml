@@ -1,3 +1,4 @@
+# Auto-updates AI news every 30 minutes (activated)
 name: Update AI News Snapshot
 
 on:
